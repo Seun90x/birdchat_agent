@@ -1,0 +1,12 @@
+openai 
+langchain 
+faiss-cpu 
+wikipedia 
+pandas 
+python-dotenv
+langchain-community
+langchain-openai
+wikipedia
+ebird.api
+sentence-transformers
+streamlit
