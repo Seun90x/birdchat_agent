@@ -6,7 +6,6 @@ pandas
 python-dotenv
 langchain-community
 langchain-openai
-wikipedia
-ebird.api
+ebird-api
 sentence-transformers
 streamlit
